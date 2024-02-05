@@ -1,0 +1,13 @@
+tipo:Super:13000:20.0
+tipo:Regular:5000:10.0
+tipo:Premium:10000:20.0
+tipo:Diesel:15000:30.0
+surtidor:Pepe:Super:-0.0:Regular:-0.0:Premium:-0.0:Diesel:-0.0
+surtidor:Juan:Super:-0.0:Regular:-0.0:Premium:-0.0:Diesel:-0.0
+surtidor:Maria:Super:-0.0:Regular:-0.0:Premium:-0.0:Diesel:-0.0
+surtidor:Ana:Super:-0.0:Regular:-0.0:Premium:-0.0:Diesel:-0.0
+empleado:Pablo:0
+empleado:Ana:0
+empleado:Juan:0
+empleado:Maria:0
+empleado:Pepe:0
